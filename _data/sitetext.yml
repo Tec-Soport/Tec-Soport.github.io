@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: TEC SOPORT!
+    text: Servicio De Mantenimiento De Computacion
+    button: Mantenimiento A Distancia
     buttonlink: "#services"
 
   services:
